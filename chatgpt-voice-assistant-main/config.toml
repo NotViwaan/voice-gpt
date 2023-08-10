@@ -1,0 +1,9 @@
+[paths]
+cookies = 'cookies'
+startfx = 'alert_start.wav'
+endfx = 'alert_end.wav'
+
+[settings]
+volume = 0.8
+language = 'english'
+key_combo = 'ALT_L+SHIFT_L'
